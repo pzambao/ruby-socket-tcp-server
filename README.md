@@ -1,5 +1,7 @@
 # tcp-socket-server
-Esta ativide tem como propósito o aprendizado sobre conexão cliente-servidor utilizando socket
+Esta ativide tem como propósito o aprendizado sobre conexão cliente-servidor utilizando socket.
+
+Para análises, considere sempre o terminal esquerdo pertencente ao servidor e o direito ao cliente.
 
 ### Atividade 6
 <img src="https://www.mediafire.com/convkey/e233/gwx9ovhgkfrwufb7g.jpg?size_id=5"/>
